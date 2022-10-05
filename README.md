@@ -29,7 +29,7 @@ Medusa is an open-source headless commerce engine that enables developers to cre
 
 ## 🚀 Quickstart
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/medusajs/admin)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/duyetvn/medusa-admin-sample)
 
 1. **Install Medusa CLI**
     ```bash
